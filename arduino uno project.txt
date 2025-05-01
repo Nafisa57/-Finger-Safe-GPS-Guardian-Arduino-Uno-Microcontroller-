@@ -1,0 +1,2 @@
+Designed a personal safety device integrating GPS tracking and fingerprint authentication.
+Ensured real-time location monitoring and secure access using Arduino microcontroller technology.
